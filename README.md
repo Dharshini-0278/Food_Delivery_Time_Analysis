@@ -40,6 +40,7 @@ AI Internship/
 ├── images/
 ├── notebooks/
 ├── src/
+├── report/
 ├── README.md
 └── requirements.txt
 ```
